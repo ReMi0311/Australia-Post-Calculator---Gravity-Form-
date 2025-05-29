@@ -1,5 +1,4 @@
 === Australia Post Shipping for Gravity Forms ===
-Contributors: chatgpt
 Tags: gravity forms, australia post, shipping, live rates, international shipping, woocommerce alternative
 Requires at least: 5.0
 Tested up to: 6.5
